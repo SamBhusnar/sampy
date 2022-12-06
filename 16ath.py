@@ -1,0 +1,10 @@
+d={
+    'one':1,
+    'two':2,
+    'three':3
+}
+d2={
+    'four':4
+}
+d.update(d2)
+print(d)
